@@ -66,3 +66,33 @@ Run graph:
 
 python graph.py
 
+
+
+
+
+\## Results
+
+
+
+Graph Output:
+
+
+
+!\[Graph](results/graph\_output.png)
+
+
+
+Main Flow Output:
+
+
+
+!\[Main Output](results/main\_output.png)
+
+
+
+Comparison Output:
+
+
+
+!\[Comparison](results/comparison\_output.png)
+
